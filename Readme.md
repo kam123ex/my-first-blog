@@ -17,3 +17,9 @@ git branch -M main
 git push -u origin main
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+(myvenv) PS C:\Users\85261\djangogirls> git add --all .
+
+(myvenv) PS C:\Users\85261\djangogirls> git commit -m "readme commit"
+
+(myvenv) PS C:\Users\85261\djangogirls> git push -u origin main
